@@ -5,7 +5,8 @@ O tutorial está disponivel no [LINK](haaaattps://kaique-fhs.github.io/Tutorial-
 Aprenda como fazer esse Shiny Dashboard, do zero, nos mínimos detalhes!
 - https://kaiquefhs EM BREVE
 
-##Site e foto estaram aqui EM BREVE
+![Alt Text](https://github.com/{user}/{repo}/raw/{branch}/path/to/image.gif)
+
 
 # Links dos Shiny Dashboard desenvolvidos aos longo do tutorial
 
