@@ -10,7 +10,7 @@ Aprenda como fazer esse Shiny Dashboard, do zero, nos mínimos detalhes!
 # Links dos Shiny Dashboard desenvolvidos aos longo do tutorial
 
 ### Shiny Dashboar completo
-- https://kaiquefhs EM BREVE
+- https://kaiquefhs.shinyapps.io/completo/
 
 ### Parte Header final
 - https://kaiquefhs.shinyapps.io/Header/
@@ -23,4 +23,3 @@ Aprenda como fazer esse Shiny Dashboard, do zero, nos mínimos detalhes!
 
 ### Parte Body final
 - https://kaiquefhs EM BREVE
-
