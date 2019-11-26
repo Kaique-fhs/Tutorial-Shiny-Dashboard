@@ -3,7 +3,7 @@
 O tutorial está disponivel no [LINK](haaaattps://kaique-fhs.github.io/Tutorial-Shiny-Dashboard/) EM BREVE
 
 Aprenda como fazer esse Shiny Dashboard, do zero, nos mínimos detalhes!
-- https://kaiquefhs EM BREVE
+- https://kaiquefhs.shinyapps.io/completo/
 
 ![](https://github.com/kaique-fhs/Tutorial-Shiny-Dashboard/raw/master/DashFinal.PNG)
 
