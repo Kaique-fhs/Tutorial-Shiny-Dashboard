@@ -1,6 +1,6 @@
 # Tutorial de Shiny Dashboard EM CONSTRÇÃO
 
-O tutorial está disponivel no [LINK](haaaattps://kaique-fhs.github.io/Tutorial-Shiny-Dashboard/) EM BREVE
+O tutorial está disponivel no [LINK](https://kaique-fhs.github.io/Tutorial-Shiny-Dashboard/) EM BREVE
 
 Aprenda como fazer esse Shiny Dashboard, do zero, nos mínimos detalhes!
 - https://kaiquefhs.shinyapps.io/completo/
