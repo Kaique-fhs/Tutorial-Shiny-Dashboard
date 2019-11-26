@@ -6,6 +6,7 @@ Aprenda como fazer esse Shiny Dashboard, do zero, nos mínimos detalhes!
 - https://kaiquefhs EM BREVE
 
 ![](https://github.com/kaique-fhs/Tutorial-Shiny-Dashboard/raw/master/https://camo.githubusercontent.com/https://DashFinal.PNG)
+![Alt Text](https://github.com/kaique-fhs/Tutorial-Shiny-Dashboard/raw/master/path/to/DashFinal.PNG)
 
 
 # Links dos Shiny Dashboard desenvolvidos aos longo do tutorial
