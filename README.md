@@ -1,4 +1,4 @@
-# Tutorial de Shiny Dashboard EM CONSTRÇÃO
+# Tutorial EM CONSTRÇÃO
 
 O tutorial está disponivel no [LINK](https://kaique-fhs.github.io/Tutorial-Shiny-Dashboard/)
 
