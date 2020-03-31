@@ -3,25 +3,25 @@
 O tutorial está EM CONSTRÇÃO
 
 Aprenda como fazer esse Shiny Dashboard, do zero, nos mínimos detalhes!
-- https://kaiquefhs.shinyapps.io/completo/
+- https://kaiquefhds.shinyapps.io/completo/
 
 ![](https://github.com/kaique-fhs/Tutorial-Shiny-Dashboard/raw/master/DashFinal.PNG)
 
 # Links dos Shiny Dashboard desenvolvidos ao longo do tutorial
 
 ### Shiny Dashboar completo
-- https://kaiquefhs.shinyapps.io/completo/
+- https://kaiquefhds.shinyapps.io/completo/
 
 ### Parte Header
-- https://kaiquefhs.shinyapps.io/Header/
+- https://kaiquefhds.shinyapps.io/Header/
 
 ### Parte Sidebar
-- https://kaiquefhs.shinyapps.io/sidebar/
+- https://kaiquefhds.shinyapps.io/sidebar/
 
 ### Parte Rightsidebar
-- https://kaiquefhs.shinyapps.io/rightsidebar/
+- https://kaiquefhds.shinyapps.io/rightsidebar/
 
 ### Parte Body
-- https://kaiquefhs EM BREVE
+- https://kaiquefhds.shinyapps.io/body/
 
-Última atualização feita em 26/11/2019
+Última atualização feita em 31/03/2020
